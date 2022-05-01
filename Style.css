@@ -1,0 +1,17 @@
+p {
+    border-style: solid;
+    border-width: 2px;
+    background-image: url("./images/Red\ and\ Blue.jpg");
+    background-repeat: no-repeat;
+    background-size: 736px 1080px;
+    height: 1024px;
+    margin-right: 1147px;
+    position: relative;
+    left: 590px;
+    transition-duration: 550ms;
+}
+
+p:hover {
+    background-image: url("./images/Black.jpg");
+    background-repeat: no-repeat;
+}
