@@ -15,3 +15,7 @@ p:hover {
     background-image: url("./images/Black.jpg");
     background-repeat: no-repeat;
 }
+
+body {
+    background-color: red;
+}
